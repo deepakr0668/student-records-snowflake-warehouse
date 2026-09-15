@@ -1,0 +1,51 @@
+student_id,name,course,marks,enrollment_date
+S001,Aarav Sharma,Data Engineering,86,2024-01-15
+S002,Diya Patel,Data Engineering,91,2024-01-18
+S003,Rohan Verma,Cloud Computing,74,2024-02-02
+S004,Ananya Singh,Cloud Computing,88,2024-02-10
+S005,Vivaan Gupta,Data Science,67,2024-02-20
+S006,Isha Nair,Data Science,95,2024-03-01
+S007,Arjun Mehta,Cybersecurity,79,2024-03-08
+S008,Kavya Iyer,Cybersecurity,83,2024-03-16
+S009,Aditya Rao,Data Engineering,72,2024-04-05
+S010,Meera Joshi,Cloud Computing,90,2024-04-12
+S011,Riya Das,Data Science,58,2024-05-03
+S012,Kabir Khan,Cybersecurity,76,2024-05-22
+S013,Sana Ali,Data Engineering,89,2024-06-06
+S014,Neel Kapoor,Cloud Computing,64,2024-06-18
+S015,Tara Bose,Data Science,81,2024-07-09
+S016,Dev Malhotra,Data Engineering,77,2024-07-18
+S017,Priya Menon,Cloud Computing,92,2024-08-02
+S018,Rahul Bhat,Data Science,69,2024-08-11
+S019,Naina Roy,Cybersecurity,84,2024-08-19
+S020,Karan Shah,Data Engineering,61,2024-09-03
+S021,Anika Paul,Cloud Computing,87,2024-09-14
+S022,Yash Kulkarni,Data Science,73,2024-09-25
+S023,Simran Kaur,Cybersecurity,96,2024-10-04
+S024,Ivan Dsouza,Data Engineering,82,2024-10-16
+S025,Pooja Reddy,Cloud Computing,70,2024-10-28
+S026,Manav Chawla,Data Science,88,2024-11-05
+S027,Aditi Jain,Cybersecurity,66,2024-11-17
+S028,Reyansh Arora,Data Engineering,94,2024-12-01
+S029,Sneha Pillai,Cloud Computing,78,2024-12-12
+S030,Harsh Sethi,Data Science,62,2025-01-09
+S031,Alia Fernandes,Cybersecurity,85,2025-01-21
+S032,Om Prakash,Data Engineering,75,2025-02-04
+S033,Shreya Ghosh,Cloud Computing,90,2025-02-15
+S034,Nikhil Anand,Data Science,71,2025-02-27
+S035,Leena Mathew,Cybersecurity,80,2025-03-08
+S036,Vedant Sinha,Data Engineering,68,2025-03-19
+S037,Muskan Bansal,Cloud Computing,83,2025-04-02
+S038,Samir Mirza,Data Science,97,2025-04-13
+S039,Ira Choudhary,Cybersecurity,59,2025-04-25
+S040,Parth Desai,Data Engineering,86,2025-05-06
+S041,Kiara Thomas,Cloud Computing,76,2025-05-18
+S042,Aman Yadav,Data Science,65,2025-05-29
+S043,Nidhi Saxena,Cybersecurity,91,2025-06-08
+S044,Arnav Banerjee,Data Engineering,79,2025-06-20
+S045,Maya Krishnan,Cloud Computing,72,2025-07-03
+S046,Ritesh Agarwal,Data Science,84,2025-07-15
+S047,Vaishnavi Rao,Cybersecurity,74,2025-07-27
+S048,Krish Oberoi,Data Engineering,93,2025-08-05
+S049,Neha Kapoor,Cloud Computing,63,2025-08-18
+S050,Farhan Siddiqui,Data Science,89,2025-08-30

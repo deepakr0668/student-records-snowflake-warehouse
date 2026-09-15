@@ -1,0 +1,29 @@
+course,year,quarter,average_marks,student_count
+Cloud Computing,2024,1,81.0,2
+Cloud Computing,2024,2,77.0,2
+Cloud Computing,2024,3,89.5,2
+Cloud Computing,2024,4,74.0,2
+Cloud Computing,2025,1,90.0,1
+Cloud Computing,2025,2,79.5,2
+Cloud Computing,2025,3,67.5,2
+Cybersecurity,2024,1,81.0,2
+Cybersecurity,2024,2,76.0,1
+Cybersecurity,2024,3,84.0,1
+Cybersecurity,2024,4,81.0,2
+Cybersecurity,2025,1,82.5,2
+Cybersecurity,2025,2,75.0,2
+Cybersecurity,2025,3,74.0,1
+Data Engineering,2024,1,88.5,2
+Data Engineering,2024,2,80.5,2
+Data Engineering,2024,3,69.0,2
+Data Engineering,2024,4,88.0,2
+Data Engineering,2025,1,71.5,2
+Data Engineering,2025,2,82.5,2
+Data Engineering,2025,3,93.0,1
+Data Science,2024,1,81.0,2
+Data Science,2024,2,58.0,1
+Data Science,2024,3,74.33,3
+Data Science,2024,4,88.0,1
+Data Science,2025,1,66.5,2
+Data Science,2025,2,81.0,2
+Data Science,2025,3,86.5,2

@@ -1,0 +1,51 @@
+student_id,student_name,course_name,marks,grade,performance_band,cluster
+S001,Aarav Sharma,Data Engineering,86.0,A,High,2
+S002,Diya Patel,Data Engineering,91.0,A+,High,2
+S003,Rohan Verma,Cloud Computing,74.0,B,Medium,1
+S004,Ananya Singh,Cloud Computing,88.0,A,High,2
+S005,Vivaan Gupta,Data Science,67.0,C,Needs support,0
+S006,Isha Nair,Data Science,95.0,A+,High,2
+S007,Arjun Mehta,Cybersecurity,79.0,B,Medium,1
+S008,Kavya Iyer,Cybersecurity,83.0,A,Medium,1
+S009,Aditya Rao,Data Engineering,72.0,B,Medium,1
+S010,Meera Joshi,Cloud Computing,90.0,A+,High,2
+S011,Riya Das,Data Science,58.0,D,Needs support,0
+S012,Kabir Khan,Cybersecurity,76.0,B,Medium,1
+S013,Sana Ali,Data Engineering,89.0,A,High,2
+S014,Neel Kapoor,Cloud Computing,64.0,C,Needs support,0
+S015,Tara Bose,Data Science,81.0,A,Medium,1
+S016,Dev Malhotra,Data Engineering,77.0,B,Medium,1
+S017,Priya Menon,Cloud Computing,92.0,A+,High,2
+S018,Rahul Bhat,Data Science,69.0,C,Needs support,0
+S019,Naina Roy,Cybersecurity,84.0,A,Medium,1
+S020,Karan Shah,Data Engineering,61.0,C,Needs support,0
+S021,Anika Paul,Cloud Computing,87.0,A,High,2
+S022,Yash Kulkarni,Data Science,73.0,B,Medium,1
+S023,Simran Kaur,Cybersecurity,96.0,A+,High,2
+S024,Ivan Dsouza,Data Engineering,82.0,A,Medium,1
+S025,Pooja Reddy,Cloud Computing,70.0,B,Medium,0
+S026,Manav Chawla,Data Science,88.0,A,High,2
+S027,Aditi Jain,Cybersecurity,66.0,C,Needs support,0
+S028,Reyansh Arora,Data Engineering,94.0,A+,High,2
+S029,Sneha Pillai,Cloud Computing,78.0,B,Medium,1
+S030,Harsh Sethi,Data Science,62.0,C,Needs support,0
+S031,Alia Fernandes,Cybersecurity,85.0,A,High,2
+S032,Om Prakash,Data Engineering,75.0,B,Medium,1
+S033,Shreya Ghosh,Cloud Computing,90.0,A+,High,2
+S034,Nikhil Anand,Data Science,71.0,B,Medium,0
+S035,Leena Mathew,Cybersecurity,80.0,A,Medium,1
+S036,Vedant Sinha,Data Engineering,68.0,C,Needs support,0
+S037,Muskan Bansal,Cloud Computing,83.0,A,Medium,1
+S038,Samir Mirza,Data Science,97.0,A+,High,2
+S039,Ira Choudhary,Cybersecurity,59.0,D,Needs support,0
+S040,Parth Desai,Data Engineering,86.0,A,High,2
+S041,Kiara Thomas,Cloud Computing,76.0,B,Medium,1
+S042,Aman Yadav,Data Science,65.0,C,Needs support,0
+S043,Nidhi Saxena,Cybersecurity,91.0,A+,High,2
+S044,Arnav Banerjee,Data Engineering,79.0,B,Medium,1
+S045,Maya Krishnan,Cloud Computing,72.0,B,Medium,1
+S046,Ritesh Agarwal,Data Science,84.0,A,Medium,1
+S047,Vaishnavi Rao,Cybersecurity,74.0,B,Medium,1
+S048,Krish Oberoi,Data Engineering,93.0,A+,High,2
+S049,Neha Kapoor,Cloud Computing,63.0,C,Needs support,0
+S050,Farhan Siddiqui,Data Science,89.0,A,High,2
